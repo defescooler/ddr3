@@ -1,0 +1,10 @@
+build/
+logs/
+cov_work/
+xcelium.d/
+xrun.*
+*.log
+*.key
+.simvision/
+third_party/
+.DS_Store

@@ -1,0 +1,15 @@
++incdir+tb
+rtl/mc_pkg.sv
+rtl/mc_init.sv
+rtl/mc_refresh.sv
+rtl/mc_ctrl.sv
+rtl/mc_timing.sv
+rtl/mc_datapath.sv
+rtl/mc_top.sv
+tb/host_if.sv
+tb/dfi_if.sv
+tb/fsm_if.sv
+tb/mc_tb_pkg.sv
+tb/dram_model.sv
+tb/mc_sva.sv
+tb/tb_top.sv
